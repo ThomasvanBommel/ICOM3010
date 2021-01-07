@@ -14,7 +14,7 @@ The intent of this course is to explore the world of fast, efficient, and safe w
 
 ## Learning Outcomes
  1. Create, convert, and use C/C++ web application
- 2. Compare and contrast WASM **vs** WASM + JavaScript **vs** JavaScript
+ 2. Compare and contrast performance between WASM **vs** WASM + JavaScript **vs** JavaScript
  3. Produce public repository with professional-level documentation
  4. Experience with GitHub projects
 
