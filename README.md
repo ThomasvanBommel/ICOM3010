@@ -1,7 +1,7 @@
 # ICOM3010
 Self-directed study (web-asembly)
 
-Project board (kanban) available [here](https://github.com/users/ThomasvanBommel/projects/1)
+Project board: [Kanban Board](https://github.com/users/ThomasvanBommel/projects/1)
 
  - [Topic Overview](#topic-overview)
  - [Learning Outcomes](#learning-outcomes)
