@@ -13,7 +13,7 @@ Self-directed study (web-asembly)
 The intent of this course is to explore the world of fast, efficient, and safe web applications. WASM enhances the browsers capabilities with native code, at almost native speeds. This opens the web for more developers, with the introduction of game engines, video editing software, and other bulky C/C++ code bases that use a combination of WASM and WebGL to create high speed applications delivered over the web.
 
 ## Learning Outcomes
- 1. Create, convert, and use C/C++ web application
+ 1. Create, convert, and implement C/C++ web application
  2. Compare and contrast performance between WASM **vs** WASM + JavaScript **vs** JavaScript
  3. Produce public repository with professional-level documentation
  4. Experience with GitHub projects
