@@ -4,7 +4,7 @@ Self-defined web assembly class
 ## Current Progress
 | Milestone         | Complete | Elapsed Time  | Description
 | :-------------    | :------: | :-----------: | :----------
-| Project setup     | 90%      | 4h            | Setup github project to comply with D2l + class requirements
+| Project setup     | 90%      | 4.25h         | Setup github project to comply with D2l + class requirements
 | Getting started   | -        | -             | Running your first WASM application
 | Weekly report     | 1/15     | 1h            | Report work... weekly
 | Compile a module  | -        | -             | Create a web assembly from scratch and / or port a library
@@ -15,7 +15,7 @@ Self-defined web assembly class
 ### 2021-01-12
 | Milestone         | Estimate Time | Complete | Elapsed Time  
 | :---------------- | :-----------: | :------: | :----------:
-| Project setup     | 1h            | 90%      | 1h
+| Project setup     | 1.25h         | 90%      | 1h
 
 No issues
 
