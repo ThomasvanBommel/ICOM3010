@@ -21,9 +21,9 @@ The intent of this course is to explore the world of fast, efficient, and safe w
  4. Experience with GitHub projects
 
 ## Milestones
-- [Weekly report milestone](https://github.com/ThomasvanBommel/ICOM3010/milestone/1)
-- [Getting started milestone](https://github.com/ThomasvanBommel/ICOM3010/milestone/2)
-- [Compile a web assembly module milestone](https://github.com/ThomasvanBommel/ICOM3010/milestone/3)
+- [Weekly report](https://github.com/ThomasvanBommel/ICOM3010/milestone/1)
+- [Getting started](https://github.com/ThomasvanBommel/ICOM3010/milestone/2)
+- [Compile a web assembly module](https://github.com/ThomasvanBommel/ICOM3010/milestone/3)
 - [Use web assembly module](https://github.com/ThomasvanBommel/ICOM3010/milestone/4)
 - [Inspect web assembly](https://github.com/ThomasvanBommel/ICOM3010/milestone/5)
 
