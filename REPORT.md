@@ -1,83 +1,28 @@
 # ICOM3010 Weekly Report
+Self-defined web assembly class
 
+## Current Progress
+| Milestone         | Complete | Elapsed Time  | Description
+| :-------------    | :------: | :-----------: | :----------
+| Project setup     | 90%      | 4h            | Setup github project to comply with D2l + class requirements
+| Getting started   | -        | -             | Running your first WASM application
+| Weekly report     | 1/15     | 1h            | Report work... weekly
+| Compile a module  | -        | -             | Create a web assembly from scratch and / or port a library
+| Use a WASM module | -        | -             | Use the compiled web assembly module from either JavaScript, as a CLI application, or from Node.js
+| Inspect WASM      | -        | -             | Inspect from within chrome, with GDB / LLDB, as a disassembled format, or as human-readable pseudo code
 
-<table>
-  <tr>
-    <th colspan="100">Project</th>
-  </tr>
-  <tr>
-    <th>Name</th>
-    <td>ICOM3010</td>
-  </tr>
-  <tr>
-    <th>Description</th>
-    <td>
-      Self-defined web assembly class
-    </td>
-  </tr>
-</table>
+## History
+### 2021-01-12
+| Milestone         | Estimate Time | Complete | Elapsed Time  
+| :---------------- | :-----------: | :------: | :----------:
+| Project setup     | 1h            | 90%      | 1h
 
+No issues
 
-<table>
-  <tr>
-    <th colspan="100">Work</th>
-  </tr>
-  <tr>
-    <th>Date</th>
-    <th>Name</th>
-    <th>Estimate Time</th>
-    <th>Percent Complete</th>
-    <th>Actual / Elapsed Time</th>
-    <th>Description</th>
-  </tr>
-  <!-- Jan 8 -->
-  <tr>
-    <th rowspan="4">Jan 8 2021</th>
-    <td>Setup Kanban</td>
-    <td>2h</td>
-    <td>100%</td>
-    <td>2h</td>
-    <td>Setup a usable kanban board (GitHub project)</td>
-  </tr>
-  <tr>
-    <td>Define Tasks</td>
-    <td>2h</td>
-    <td>25%</td>
-    <td>30m</td>
-    <td>Define class objectives</td>
-  </tr>
-  <tr>
-    <td>Define Milestones</td>
-    <td>1h</td>
-    <td>25%</td>
-    <td>10m</td>
-    <td>Define class milestones</td>
-  </tr>
-  <tr>
-    <td colspan="100"></td>
-  </tr>
-  <!-- Jan 14 -->
-</table>
+### 2021-01-08
+| Milestone         | Estimate Time | Complete | Elapsed Time  
+| :---------------- | :-----------: | :------: | :----------:
+| Project setup     | 2h            | 60%      | 3h
+| Weekly report     | 1h            | 100%     | 1h            
 
-
-<table>
-  <tr>
-    <th colspan="100">Issues</th>
-  </tr>
-  <tr>
-    <th>Date</th>
-    <th>Issue</th>
-    <th>Resolution</th>
-  </tr>
-  <!-- Jan 8 -->
-  <tr>
-    <th rowspan="2">Jan 8 2021</th>
-    <td colspan="100">
-      No issues
-    </td>
-  </tr>
-  <tr>
-    <td colspan="100"></td>
-  </tr>
-  <!-- Jan 14 -->
-</table>
+No issues
