@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 ## 2021-01-12
  **Added**
+ - [hello-world](hello-world)
+
+## 2021-01-12
+ **Added**
  - [CHANGELOG.md](CHANGELOG.md)
  - [Compile a web assembly module milestone](https://github.com/ThomasvanBommel/ICOM3010/milestone/3)
  - [Use web assembly module](https://github.com/ThomasvanBommel/ICOM3010/milestone/4)
